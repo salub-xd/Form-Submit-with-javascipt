@@ -2,9 +2,9 @@ console.log("The Postman Project like form.");
 let name1 = document.getElementById("name");
 let email = document.getElementById("email");
 let phone = document.getElementById("phone");
-let validUser = true;
-let validEmail = true;
-let validPhone = true;
+let validUser = false;
+let validEmail = false;
+let validPhone = false;
 
 
 
